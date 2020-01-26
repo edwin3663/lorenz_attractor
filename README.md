@@ -7,9 +7,9 @@ the output in real-time to a SVGA monitor.
 [![Image of Lorenz Attractor Simulation](http://img.youtube.com/vi/y6hWjaKDF-c/0.jpg)](http://www.youtube.com/watch?v=y6hWjaKDF-c)
 
 ## Required Software and Hardware
-Xilinx Vivado 2018.3
-Zedboard with Zynq-7000 All-Programmable SOC
-SVGA capable monitor
+1. Xilinx Vivado 2018.3
+2. Zedboard with Zynq-7000 All-Programmable SOC
+3. SVGA capable monitor
 
 ## Building and Running the Project
 1. Clone the project
